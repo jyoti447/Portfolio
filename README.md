@@ -1,2 +1,2 @@
 # Portfolio
-it includes details about my learning skills.
+it includes details about my learning skills and projects.
